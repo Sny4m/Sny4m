@@ -6,12 +6,14 @@ I'm exploring machine learning and software development, mostly with Python, whi
 
 🛠️ Things I enjoy
 
-🧠 Machine Learning — building & experimenting with models
-🔧 Small Tools — fixing little annoyances with code
-⚙️ Automation — making computers do the boring stuff
-🌐 Backend — APIs, services & everything behind the screen
-🧩 Developer Tools — tools that make coding a little nicer
-🛠️ From Scratch — because sometimes it's more fun to build it yourself
+🧠 Machine Learning| 🔧 Small Tools
+Building & experimenting with models| Fixing little annoyances with code
+
+⚙️ Automation| 🌐 Backend
+Making computers do the boring stuff| APIs & services
+
+🧩 Developer Tools| 🛠️ From Scratch
+Tools that make coding a little nicer| Because sometimes it's more fun to build it yourself
 
 🌐 Around the internet
 
