@@ -20,9 +20,9 @@ I'm exploring **machine learning and software development** with Python, while a
 ### 🌐 Around the internet
 
 <a href="https://github.com/sny4m">
-  <img src="https://img.shields.io/badge/GitHub-sny4m-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-sny4m-181717?style=for-the-badge&logo=github&logoColor=white" alt="You're Already Here :)">
 </a>
-&nbsp; you're already here :)
+
 
 <a href="https://sny4m.vercel.app">
   <img src="https://img.shields.io/badge/Website-sny4m.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
@@ -31,7 +31,8 @@ I'm exploring **machine learning and software development** with Python, while a
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sny4m&show_icons=true&hide_border=true&theme=transparent&text_color=444444&title_color=444444&icon_color=444444" alt="Sanyam's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sny4m&show_icons=true&hide_border=true&theme=transparent&text_color=444444&title_color=444444&icon_color=444444" height="170" alt="Sanyam's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sny4m&layout=compact&hide_border=true&theme=transparent&text_color=444444&title_color=444444" height="170" alt="Sanyam's most used languages">
 </p>
 
 ---
