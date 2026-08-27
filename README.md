@@ -26,12 +26,12 @@ I'm exploring machine learning and software development with Python, while also 
 
 🐛 Debugging — Chasing bugs until they finally give up
 
-🌐 Around the internet
+🌐 *Around the internet*
 
 <a href="https://github.com/sny4m">
-  <img src="https://img.shields.io/badge/GitHub-sny4m-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-sny4m-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="You're Already Here :)">
 </a>
-<span style="font-size: 10px;"> you're already here :)</span>
+
 
 <a href="https://sny4m.vercel.app">
   <img src="https://img.shields.io/badge/Website-sny4m.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=181717" alt="Website">
