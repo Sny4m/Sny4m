@@ -6,7 +6,7 @@ I'm a student who enjoys building things, understanding how they work, and exper
 
 I'm exploring machine learning and software development with Python, while also learning Go, Rust, backend development, and systems programming.
 
-🛠️ Things I enjoy
+🛠️ **Things I enjoy**
 
 🧠 Machine Learning — Experimenting with models and turning ideas into working projects
 
