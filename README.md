@@ -45,8 +45,4 @@ I'm exploring **machine learning and software development** with Python, while a
     />
   </a>
 </p>
-
-
-<p align="center">
-  **Thanks for stopping by :)**
-</p>
+**Thanks for stopping by :)**
