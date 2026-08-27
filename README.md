@@ -28,13 +28,17 @@ I'm exploring **machine learning and software development** with Python, while a
   <img src="https://img.shields.io/badge/Website-sny4m.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
 </a>
 
-### 📊 GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sny4m&show_icons=true&hide_border=true&theme=transparent&text_color=444444&title_color=444444&icon_color=444444" height="170" alt="Sanyam's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sny4m&layout=compact&hide_border=true&theme=transparent&text_color=444444&title_color=444444" height="170" alt="Sanyam's most used languages">
+  <img
+    src="https://githubcard.com/sny4m.svg"
+    alt="Sanyam's GitHub stats"
+    height="170"
+  >
+  <img
+    src="https://githubcard.com/sny4m/languages.svg"
+    alt="Sanyam's most used languages"
+    height="170" >
 </p>
-
 ---
 
 <p align="center">
