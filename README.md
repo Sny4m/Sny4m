@@ -31,7 +31,7 @@ I'm exploring **machine learning and software development** with Python, while a
 <p align="center">
   <a href="https://github.com/sny4m">
     <img
-      src="https://github-stats-extended.vercel.app/api?username=sny4m&show_icons=true&hide_border=true&theme=transparent&text_color=444444&title_color=444444&icon_color=444444"
+      src="https://github-stats-extended.vercel.app/api?username=sny4m&show_icons=true&hide_border=true&theme=transparent&text_color=444444&title_color=444444&icon_color=444444&theme=tokyonight"
       alt="Sanyam's GitHub stats"
       height="170"
     />
@@ -39,7 +39,7 @@ I'm exploring **machine learning and software development** with Python, while a
 
   <a href="https://github.com/sny4m">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=sny4m&layout=compact&hide_border=true&theme=transparent&text_color=444444&title_color=444444"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=sny4m&layout=compact&hide_border=true&theme=transparent&text_color=444444&title_color=444444&theme=tokyonight"
       alt="Sanyam's most used languages"
       height="170"
     />
