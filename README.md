@@ -31,7 +31,7 @@ I'm exploring machine learning and software development with Python, while also 
 <a href="https://github.com/sny4m">
   <img src="https://img.shields.io/badge/GitHub-sny4m-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">
 </a>
-&nbsp; you're already here :)
+<span style="font-size: 14px;"> (you're already here :) )</span>
 
 <a href="https://sny4m.vercel.app">
   <img src="https://img.shields.io/badge/Website-sny4m.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=181717" alt="Website">
