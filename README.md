@@ -26,8 +26,7 @@ I'm exploring **machine learning and software development** with Python, while a
 
 <a href="https://sny4m.vercel.app">
   <img src="https://img.shields.io/badge/Website-sny4m.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
-</a>
-<br>
+</a><br>
 
 <p align="center">
   <a href="https://github.com/sny4m">
