@@ -28,7 +28,7 @@ I'm exploring **machine learning and software development** with Python, while a
   <img src="https://img.shields.io/badge/Website-sny4m.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
 </a><br>
 
-<br><p align="center">
+<p align="center">
   <a href="https://github.com/sny4m">
     <img
       src="https://github-stats-extended.vercel.app/api?username=sny4m&show_icons=true&hide_border=true&theme=transparent&text_color=444444&title_color=444444&icon_color=444444&theme=default"
