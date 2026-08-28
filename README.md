@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://sny4m.vercel.app/1787853159587.png" alt="Hi, I'm Sanyam" width="100%">
+  <img src="https://github.com/Sny4m/Portofolio/blob/main/public/1787853159587.png?raw=true" alt="Hi, I'm Sanyam" width="100%">
 </p>
 
 I'm a student who enjoys **building things, understanding how they work, and experimenting with computers more than I probably should.**
