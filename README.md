@@ -41,7 +41,7 @@ I'm exploring **machine learning and software development** with Python, while a
     <img
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=sny4m&layout=compact&hide_border=true&theme=transparent&text_color=444444&title_color=444444&theme=default"
       alt="Sanyam's most used languages"
-      height="170"
+      height="160"
     />
   </a>
 </p>
